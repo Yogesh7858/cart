@@ -203,7 +203,7 @@ a {
 }
 .item-title,.item-price{
   font-weight:200;
-  font-size: 16px;
+  font-size: 10px;
 }
 .item-quantity {
   display:flex;
@@ -226,11 +226,11 @@ f{
 }
 .cart-items__container [data-role='price']{
   min-width:160px;
-  width: 77%;
+  width: 73%;
   text-align:left;
 }.cart-items__container [data-role="quantity"]{
   min-width: 40px;
-  width: 40%;
+  width: 33%;
   text-align:left;
 }.cart-items__container [data-role="total-amount"]{
   min-width: 117px;
